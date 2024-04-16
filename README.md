@@ -1,5 +1,8 @@
 ### Olá! Eu sou o Mateus Lucena 👋
 
+![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+
+
 - 🔭 Hoje busco meu primeiro emprego na area de desenvolvimento
 - 🌱 estou cursando ADS e estudando JavaScript / Typescript
 - 📫 Contate-me no email: mateuslucena08@outlook.com
