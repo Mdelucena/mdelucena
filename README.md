@@ -4,6 +4,17 @@
 - 📫 Contate-me no email: mateuslucena08@outlook.com
 - 😄 Pronouns: ele/dele
 
+  <p align="center">I solve big challenges using technology. <br><br> Software developer passionate about solving complex problems through technology. </p>&nbsp;&nbsp;
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mdelucena&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mdelucena&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
