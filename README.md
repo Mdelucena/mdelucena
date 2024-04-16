@@ -12,10 +12,11 @@
 - 🌱 Estou cursando ADS e estudando JavaScript / Typescript
 - 📫 Contate-me no email: mateuslucena08@outlook.com
 
+&nbsp;
+ &nbsp;
 
 
-
-  <p align="center">I solve big challenges using technology. <br><br> Software developer passionate about solving complex problems through technology. </p>&nbsp;&nbsp;
+<p align="left">I solve big challenges using technology. <br><br> Software developer passionate about solving complex problems through technology. </p>&nbsp;&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mdelucena&theme=radical&mode=weekly" />
