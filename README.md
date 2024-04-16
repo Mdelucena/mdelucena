@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Mateus Lucena 👋
 - 🔭 Hoje busco meu primeiro emprego na area de desenvolvimento
-- 🌱 estou cursando ADS e estudando JavaScript / Typescript
+- 🌱 Estou cursando ADS e estudando JavaScript / Typescript
 - 📫 Contate-me no email: mateuslucena08@outlook.com
-- 😄 Pronouns: ele/dele
 
   <p align="center">I solve big challenges using technology. <br><br> Software developer passionate about solving complex problems through technology. </p>&nbsp;&nbsp;
 
