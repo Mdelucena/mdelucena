@@ -1,7 +1,19 @@
-### Olá! Eu sou o Mateus Lucena 👋
+<div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=425&height=35&lines=%3C+Hello%2C+World!+%2F%3E" alt="Typing SVG" /></a>
+    <hr>
+   
+  </div>
+</div>
+
+
+
+###  &nbsp; Eu sou o Mateus Lucena 👋
 - 🔭 Hoje busco meu primeiro emprego na area de desenvolvimento
 - 🌱 Estou cursando ADS e estudando JavaScript / Typescript
 - 📫 Contate-me no email: mateuslucena08@outlook.com
+
+
+
 
   <p align="center">I solve big challenges using technology. <br><br> Software developer passionate about solving complex problems through technology. </p>&nbsp;&nbsp;
 
