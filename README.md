@@ -1,8 +1,4 @@
 ### Olá! Eu sou o Mateus Lucena 👋
-
-![snake gif](https://github.com/your-user-name/mdelucena/blob/output/github-contribution-grid-snake.gif)
-
-
 - 🔭 Hoje busco meu primeiro emprego na area de desenvolvimento
 - 🌱 estou cursando ADS e estudando JavaScript / Typescript
 - 📫 Contate-me no email: mateuslucena08@outlook.com
@@ -25,5 +21,8 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mateuslucena08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-de-lucena-sabino-7b1298175" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
 </div>
+
+![snake gif](https://github.com/mdelucena/mdelucena/blob/output/github-contribution-grid-snake.gif)
+
