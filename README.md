@@ -8,7 +8,7 @@
 
 
 ###  &nbsp; Eu sou o Mateus Lucena 👋
-- 🔭 Hoje busco meu  emprego na area de desenvolvimento
+- 🔭 Acesse meu Portfólio: mdelucenadevs.netlify.app
 - 🌱 Estou cursando ADS e estudando JavaScript / React
 - 📫 Contate-me no email: mateuslucena08@outlook.com
 
