@@ -8,7 +8,7 @@
 
 
 ###  &nbsp; Eu sou o Mateus Lucena 👋
-- 🔭 Hoje busco meu primeiro emprego na area de desenvolvimento
+- 🔭 Hoje busco meu  emprego na area de desenvolvimento
 - 🌱 Estou cursando ADS e estudando JavaScript / React
 - 📫 Contate-me no email: mateuslucena08@outlook.com
 
