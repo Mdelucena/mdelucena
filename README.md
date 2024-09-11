@@ -9,7 +9,7 @@
 
 ###  &nbsp; Eu sou o Mateus Lucena 👋
 - 🔭 Acesse meu Portfólio: mdelucenadevs.netlify.app
-- 🌱 Estou cursando ADS e estudando JavaScript / React
+- 🌱 Estou cursando Ciência da computação e estudando JAVA - Spring Boot - Reactjs
 - 📫 Contate-me no email: mateuslucena08@outlook.com
 
 &nbsp;
