@@ -9,7 +9,7 @@
 
 ###  &nbsp; Eu sou o Mateus Lucena 👋
 - 🔭 Acesse meu Portfólio: mdelucenadevs.netlify.app
-- 🌱 Estou cursando Ciência da computação e estudando JAVA - Spring Boot - Reactjs
+- 🌱 Estou cursando Ciência da computação e estudando Python - Reactjs
 - 📫 Contate-me no email: mateuslucena08@outlook.com
 
 &nbsp;
@@ -28,11 +28,10 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   
   
 </div>
