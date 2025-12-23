@@ -18,10 +18,7 @@
 
 <p align="left">I solve big challenges using technology. <br><br> Software developer passionate about solving complex problems through technology. </p>&nbsp;&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mdelucena&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mdelucena&show_icons=true&theme=radical&layout=compact" />
- </div>
+
  
  &nbsp;
  &nbsp;
